@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_call"
+        android:layout_marginBottom="15dp"
+        android:padding="15dp"
+        android:backgroundTint="#87C5C4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_call" />
+    <Button
+        android:id="@+id/btn_home"
+        android:layout_marginBottom="15dp"
+        android:padding="15dp"
+        android:backgroundTint="#7395AF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home" />
+    <Button
+        android:id="@+id/btn_gmap"
+        android:layout_marginBottom="15dp"
+        android:padding="15dp"
+        android:backgroundTint="#B37E90"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_gmap" />
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_marginBottom="15dp"
+        android:padding="15dp"
+        android:backgroundTint="#D3CD9E"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_search" />
+    <Button
+        android:id="@+id/btn_sms"
+        android:layout_marginBottom="15dp"
+        android:padding="15dp"
+        android:backgroundTint="#BFAA8A"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_sms" />
+    <Button
+        android:id="@+id/btn_camera"
+        android:layout_marginBottom="15dp"
+        android:padding="15dp"
+        android:backgroundTint="#B0CD8E"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_camera" />
+
+</LinearLayout>

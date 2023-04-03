@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile1Project_1107_01</string>
+    <string name="btn_call">전화 걸기</string>
+    <string name="btn_home">홈페이지 열기</string>
+    <string name="btn_gmap">구글맵 열기</string>
+    <string name="btn_search">구글 검색</string>
+    <string name="btn_sms">문자 보내기</string>
+    <string name="btn_camera">사진 찍기</string>
+</resources>
